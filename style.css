@@ -20,4 +20,18 @@
     .logonum2{
         position: block;
     }
+
+    #textocontrafakenews{
+        margin-bottom: 0;
+    }
+    
+    #explicacoesEmParagrafos{
+        margin: 100px;
+    }
 }
+
+
+#imagemStop{
+    width: 250px;
+    max-width: auto;
+   }
