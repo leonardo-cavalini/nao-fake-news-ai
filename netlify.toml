@@ -1,0 +1,4 @@
+[[redirects]]
+from = "/*"
+to = #/caraDoSite.html"
+status = 200
