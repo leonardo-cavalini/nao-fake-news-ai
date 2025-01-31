@@ -1,0 +1,1 @@
+window.addEventListener("load",()=>{const a=document.querySelector("#imagens");a.classList.add("aparecer")}),window.addEventListener("load",()=>{const a=document.querySelector("#titulonomeio");a.classList.add("aparecer")});
