@@ -4,7 +4,7 @@
 #imagens.aparecer img{opacity:1}
 #titulonomeio{opacity:0;transition:opacity 2.5s ease-in-out}
 #titulonomeio.aparecer{opacity:1}
-.logonum1{position:relative;top:-7px;right:0px;max-width:150px;height:auto}
+.logonum1{position:relative;top:-7px;right:10px;max-width:150px;height:auto}
 .logonum2{position:relative;top:10px;left:100px;max-width:150px;height:auto}
 .titulonomeio{color:#fff;text-shadow:2px 2px 4px #9b8c8c;display:flex;justify-content:center;align-items:center;height:110vh;font-size:100px}
 .textocontrafakenews{font-weight:700;justify-content:center;align-items:center;height:auto;width:auto;font-size:35px;left:5%;margin:auto;left:100px}
