@@ -67,3 +67,10 @@ body {
     margin: 0;
     padding: 0;
 }
+
+.identificacaoturma {
+    position: relative;
+    bottom: 45px;
+    left: 170px;
+    font-size: 10px;
+   }
